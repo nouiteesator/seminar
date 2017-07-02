@@ -1,0 +1,43 @@
+was sollte erklaert werden. 
+was ist simevents: software fuer simulation von diskreten events
+was sind enteties
+queuing systems zum beispiel D/D/1: deterministische arrival rate, deterministische service rate und ein single server
+
+simeventsstartup('des') zum setzen fuer diskretes simulationen seite 2-3
+
+===================================
+projekt supermarkt
+dafuer zunaechst modell anfertigen wie in der vorlesung
+dieses dann implementieren
+schritte der implementierung dokumentieren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================HINWEISE========================
+zum setzen der kapazitaet auf unendlich -> setze "Inf"
+simeventsstartup('des') zum setzen fuer diskretes simulationen seite 2-3
+simeventslib zum oeffnen der libary
+simulink zum oeffnen einer anderern bibliothek mit baumstruktur
+
+

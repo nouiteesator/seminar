@@ -1,0 +1,105 @@
+Idee fuer Seminar 
+
+Mensa
+
+Die Mensa hat drei Kassen
+Davon sind zwei barged kassen 
+und eine ist eine karten kasse
+
+
+
+drei theken mit verschiedenem essen
+hamburger 
+salat 
+bockwurst
+
+
+Fragen
+wieviele burger werden verkauft
+wieviel salat wird gekauft
+wieviele bockwuerste
+wie hoch ist die auslastung der kassen
+wie wirken sich mehr/ weniger studenten aus
+mehr weniger kassen
+
+wahrscheinlichkeiten durch beobachtung
+
+
+studenten 
+ein student benutzt zu dreissig prozent seine karte
+stellt sich an die kuerzeste schlange an 
+50% essen burger
+30% salat 
+20% bockwurst
+ein student mit karte kann sich an jede kasse stellen
+ein student ohne karte nur an die barkassen
+
+
+student wartet hoechstens 
+15 minuten in schlange fuer sein essen
+
+
+
+---
+Wann wurden die letzten bedient
+=> ab einer gewissen zeit dürfen keine 
+kunden mehr generiert werden, dafuer muessen 
+aber die bestehenden noch abgearbeitet werden 
+=> timer vielleicht
+
+studenten mit karte duerfen sich an jede kasse anstellen
+die anderen nicht, sondern die dürfen sich nur 
+an bar kassen anstellen
+
+
+
+
+
+
+
+
+Modell Beschreibung
+Es wird davon ausgegangen, dass in einer Stunde 
+200 Kunden eintreffe.
+Von diesen 200 möchten 100 Burger, 60 Salat und 40 Bockwurst essen
+Der Bedienungsraum umfasst in dieser Annahme ein unbegrenztes Volumen.
+Die Leute verlieren nur durch einen Umstand die Geduld und verlassen 
+den Bedienungsraum und zwar dann, wenn sie zu lange auf ihr selektiertes Gericht warten müssen. 
+Die verloren gegangen Kunden werden sich dann nicht erneut für ein anderes Gericht anstellen, sondern ihre Mahlzeit woanders beschaffen.
+Die geduldete Wartezeit eines Kunden beträgt gleichverteilt zwischen 3 und 5 Minuten. 
+Die Bedienzeit an der Essensausgbe der Gerichte dauert für Burger und
+Bockwurst jeweils 45 Sekunden, die Ausgabe eines Salates jedoch 60 Sekunden.
+Es wird die Annahme getroffe, dass ein Kunde sobald dieser sein Gericht erhalten hat, den Bedienraum nicht mehr vorzeitig verlässt. 
+Stattdessen wartet der Kunde unerheblich von der restlichen Wartezeit, bis er selbst mit dem bezahlen dran ist.
+Zu Beginn wird die Annahme getroffen, dass 3 Kassen geöffnet sind, wobei 1 Kasse ausschließlich Kunden bedient, die im Besitz einer Studenten/Mitarbeiter Karte sind. Die Karte ermöglicht Bargeldloses bezahlen, was somit zu geringeren Bedienzeiten führt.
+Die anderen Kassen sind den Barzahlern vorbehalten. Die Kunden mit einer Karte werden sich zunächst auf jedem Fall beim Bezahlen an die Kasse mit der Kartenbezahlung anstellen, da dort der Bezahlvorgang drastisch geringer ist. 
+Am Anfang werden 40% aller Kunden mit einer Kundenkarte ausgestattet.
+Sobald sich Warteschlangen bilden, basieren diese auf dem FIFO (First in first out)-Prinzip
+
+===============hinweis==========
+welche version wurde verwendet
+
+es werden nicht alle 200 kunden bis zum 
+ende hin bedient, 
+einige im standardfall 9 sind bis zum ende hin  noch 
+in einer warteschlange, sodass sie nicht erfasst werden
+----------------------------
+
+Zu untersuchen gilt es
+Die Verweildauer eines Kunden.
+(durchschnittliche).
+wie lange wartet er unabhängig vom essens typ auf sein essen
+
+wie lange wartet ein burger/salat/wurst Kunde auf sein essen
+wie lange wartet im durchschnitt ein karten/nicht karten besitzer bis er bezahlt hat
+
+
+
+Welche Auswirkungen hat der Besitz einer Karte, wie verhält es sich, 
+wenn mehr weniger Personen einer Karte sind.
+Wie verändert sich die Verweilzeit bei veränderter Kassenanzahl
+Wie verändert sich die Verlustrate wenn die Geduldzeit der Kunden 
+durch Unterhaltung beispielsweise durch Fernsehen erhöht wird
+
+
+
